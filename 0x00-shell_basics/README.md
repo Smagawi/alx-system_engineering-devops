@@ -5,3 +5,4 @@ ls -l display current directory contents in long format
 ls -la display current directory contents, including hidden files (starting with .). Use the long format
 ls -lan Display current directory contents. Long formatwith user and group IDs displayed numerically And hidden files (starting with .)
 mkdir -p /tmp/my_first_directory creates a directory named my_first_directory in the /tmp/ directory.
+mv Move the file betty from /tmp/ to /tmp/my_first_directory
